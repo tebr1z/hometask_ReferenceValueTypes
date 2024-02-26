@@ -20,9 +20,9 @@ namespace ConsoleApp19
             #endregion
             #region Task 2 Void
 
-            //Console.WriteLine(Repeat("Ha!"));       
-            //Console.WriteLine(Repeat("Ha!", 2));    
-            //Console.WriteLine(Repeat("Ha!", 3));
+            //Console.WriteLine(Repeat("TT"));       
+            //Console.WriteLine(Repeat("TT!", 2));    
+            //Console.WriteLine(Repeat("TT!", 3));
 
             #endregion
 
